@@ -12,7 +12,7 @@ public class AppPrincipal {
 		SpringApplication.run(AppPrincipal.class, args);/*SpringApplication.run, ,metodo de Spring Boot para iniciar aplicacion*/
 
 		//hhhhhhhhhhhhhhSystem.exit(0);
-
+		System.exit(0);
 
 	}
 
