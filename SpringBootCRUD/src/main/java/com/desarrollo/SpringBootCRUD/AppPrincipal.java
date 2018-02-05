@@ -11,7 +11,7 @@ public class AppPrincipal {
 		//System.exit(0);
 		SpringApplication.run(AppPrincipal.class, args);/*SpringApplication.run, ,metodo de Spring Boot para iniciar aplicacion*/
 
-		//System.exit(0);
+		//hhhhhhhhhhhhhhSystem.exit(0);
 
 
 	}
