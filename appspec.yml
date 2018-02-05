@@ -4,4 +4,7 @@ files:
    - source: /SpringBootCRUD
      destination: /var/www/html/carpeta/springboot
 
-
+hooks:
+   
+   AfterInstall:
+   - location: scripts/desplegar.sh
