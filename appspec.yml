@@ -5,7 +5,5 @@ files:
      destination: /var/www/html/carpeta/springboot
 
 hooks:
-   BeforeInstall:
-   
    AfterInstall:
    - location: scripts/ejecutable.sh
