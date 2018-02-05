@@ -7,4 +7,4 @@ files:
 hooks:
    
    AfterInstall:
-   - location: scripts/desplegar.sh
+   - location: scripts/ejecutable.sh
