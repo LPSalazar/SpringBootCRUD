@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /var/www/html/carpeta/springboot/
+cd /var/www/html/carpeta/springboot/SpringBootCRUD
 
-java -jar SpringBootCRUD-0.0.1-SNAPSHOT.jar
+java -jar target/SpringBootCRUD-0.0.1-SNAPSHOT.jar
