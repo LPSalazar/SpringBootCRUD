@@ -1,0 +1,11 @@
+version: 0.0
+os: linux
+files:
+   - source: /SpringBootCRUD/
+     destination: /var/www/html/carpeta/springboot
+
+hooks:
+   BeforeInstall:
+   
+   AfterInstall:
+   - location: scripts/ejecutable.sh
