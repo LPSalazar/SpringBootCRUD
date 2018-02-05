@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-   - source: /SpringBootCRUD
+   - source: /
      destination: /var/www/html/carpeta/springboot
 
 hooks:
